@@ -1,4 +1,4 @@
-# simple-personal-page
+# Website Simple-personal-page
 A simple personal page that people can send you an email.
 
 https://franzitaz.github.io/simple-personal-page/
